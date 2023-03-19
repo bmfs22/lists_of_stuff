@@ -4,3 +4,4 @@ This is a well-meaning movie list for a special someone who needs some catching 
 
 * Alien
 * Princess Mononoke
+* The Lighthouse
